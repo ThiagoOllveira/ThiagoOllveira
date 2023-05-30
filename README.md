@@ -12,8 +12,8 @@
 </div>
 
 
-<div style="padding-top: 55px";>
-  <a href="https://https://www.instagram.com/thiago.ollveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
+  <a href="https://https://www.instagram.com/thiago.ollveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" padding-top="55px"></a>
   
   <picture>
   <source
