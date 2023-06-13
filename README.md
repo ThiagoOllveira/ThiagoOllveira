@@ -16,23 +16,5 @@
 
 <div>
   <h4> Redes sociais </h4>
-  <a href="https://www.instagram.com/thiago.ollveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" padding-top="55px"></a>
-  
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
-    "
-  />
-<!--   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  /> -->
-</picture>
+  <a href="https://www.instagram.com/thiago.ollveira/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.academiadomarketing.com.br%2Fredes-sociais-mais-usadas-no-brasil%2F&psig=AOvVaw1ECmUUKeyMq8_lKNpEUg5t&ust=1686704969207000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiq54WHv_8CFQAAAAAdAAAAABAJ" target="_blank" padding-top="55px"></a>
+<!--   https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white -->
